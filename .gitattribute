@@ -1,0 +1,5 @@
+*.sql linguist-language=Snowflake SQL
+*.py linguist-language=Snowpark Python
+*.ipynb linguist-language=Snowflake Notebook
+*.streamlit linguist-language=Streamlit in Snowflake
+*.md linguist-documentation
