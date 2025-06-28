@@ -76,6 +76,12 @@ Sales and supply teams often struggle with:
 ## 🏗️ Architecture
 <p align="center"> <img src="Architecture.png" alt="Project Architecture" width="700"/> </p>
 
+## 🖥️ Demo
+
+📸 *Screenshots included in:* `IcebreakerSparrows_FinalSubmission.pptx`  
+🎥 *Demo video link: https://shorturl.at/WxI19 *  
+
+
 ## 📊 Key Features Used in Snowflake
 
 * **Snowpark Python** for data generation and preprocessing
