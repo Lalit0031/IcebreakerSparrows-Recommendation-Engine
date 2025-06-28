@@ -74,7 +74,7 @@ Sales and supply teams often struggle with:
 * **Native Dashboard**: Deployed using **Streamlit in Snowflake** for secure and fast visualization.
 
 ## 🏗️ Architecture
-<p align="center"> <img src="ae9c2094-5682-49ca-a309-4ef31c2814e0.png" alt="System Architecture" width="700"/> </p>
+<p align="center"> <img src="Architecture.png" alt="Project Architecture" width="700"/> </p>
 
 ## 📊 Key Features Used in Snowflake
 
