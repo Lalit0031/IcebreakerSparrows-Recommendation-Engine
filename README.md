@@ -79,7 +79,7 @@ Sales and supply teams often struggle with:
 ## 🖥️ Demo
 
 📸 *Screenshots included in:* `IcebreakerSparrows_FinalSubmission.pptx`  
-🎥 *Demo video link: [https://shorturl.at/WxI19](https://drive.google.com/file/d/13AgsQ-qjwYkiX-y9FnoxPEsC5DMHIxqb/view?usp=drive_link) *  
+🎥 *Demo video link:* [https://shorturl.at/WxI19](https://drive.google.com/file/d/13AgsQ-qjwYkiX-y9FnoxPEsC5DMHIxqb/view?usp=drive_link) 
 
 
 ## 📊 Key Features Used in Snowflake
