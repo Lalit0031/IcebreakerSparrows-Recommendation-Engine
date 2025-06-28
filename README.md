@@ -92,6 +92,15 @@ Sales and supply teams often struggle with:
 * Integrate demand forecasting and other ML models in Cortex
 * Enhance dashboard UI/UX with charts and export capabilities
 
+## 🐦 What's in the Name: *Icebreaker Sparrows*
+
+The name **Icebreaker Sparrows** reflects the **essence and impact** of this project:
+
+- **Icebreaker**: Like a ship breaking through frozen barriers, the solution cuts through data silos and decision inertia — clearing the path for data-driven, intelligent product targeting.
+- **Sparrows**: Small, adaptive, and incredibly fast — they symbolize the **agility, scalability, and simplicity** of this native app, which delivers quick and actionable insights within the Snowflake environment.
+
+Together, **Icebreaker Sparrows** represents a **smart, efficient, and transformative data application** that enables businesses to break through complexity and unlock growth through precise recommendations.
+
 
 ## 💡 Quote to Remember
 
